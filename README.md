@@ -50,4 +50,4 @@ Type `Y` to install the module, and the script will restart `example.py` automat
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details. [![GitHub License](https://img.shields.io/github/license/mr0miner/Finger-Joint-Detection-Application)](https://github.com/mr0miner/Finger-Joint-Detection-Application/blob/main/LICENSE)
+This project is licensed under the MIT License. See the LICENSE file for details. [![GitHub License](https://img.shields.io/github/license/mr0miner/Auto-Install-Script)](https://github.com/mr0miner/Finger-Joint-Detection-Application/blob/main/LICENSE)
