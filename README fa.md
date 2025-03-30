@@ -48,6 +48,10 @@ python auto_install.py example.py
 - اطمینان حاصل کنید که اتصال اینترنت فعال دارید تا وابستگی‌ها نصب شوند.
 - اسکریپت پس از نصب ماژول‌های گم‌شده، خود را مجدداً اجرا می‌کند، بنابراین ممکن است تغییرات ذخیره‌نشده در محیط شما از بین برود.
 
-## مجوز
+## لایسنس
 
-این پروژه تحت مجوز MIT منتشر شده است. برای جزئیات به فایل LICENSE مراجعه کنید. [![GitHub License](https://img.shields.io/github/license/mr0miner/Finger-Joint-Detection-Application)](https://github.com/mr0miner/Finger-Joint-Detection-Application/blob/main/LICENSE)
+این پروژه تحت مجوز MIT منتشر شده است. برای جزئیات بیشتر به فایل LICENSE مراجعه کنید. [![GitHub License](https://img.shields.io/github/license/mr0miner/Auto-Install-Script)](https://github.com/mr0miner/Auto-Install-Script/blob/main/LICENSE)
+
+## Related Documentation
+
+For the English version of this README, refer to [README.md](./README.md).
