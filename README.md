@@ -40,7 +40,7 @@ Type `Y` to install the module, and the script will restart `example.py` automat
 
 ## Requirements
 
-- Python 3.6 or higher
+- Python 3.8 or higher
 - `pip` installed and configured
 
 ## Notes
